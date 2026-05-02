@@ -26,7 +26,7 @@ Role        : Operations & Logistics Professional
 Experience  : ~1.5 Years (Express Logistics + Branch Operations)
 Location    : Khordha, Odisha — 752056
 Education   : B.Tech (Electrical Engineering) — Pursuing | 12th Pass
-Email       : routashutosh999@gmail.com
+Email       : ashutoshrout3561@gmail.com
 Phone       : +91 81440 53691
 Relocation  : ✅ Fully Open to Pan-India Relocation
 ```
@@ -172,7 +172,8 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 | 🎓 Qualification | 🏫 Institution | 📅 Year |
 |:---|:---|:---:|
 | B.Tech – Electrical Engineering | Parala Maharaja Engineering College, Berhampur | 2024 – Present |
-| Higher Secondary (12th Science) | Prananath Higher Secondary School, Khordha | 2024 |
+| Higher Secondary (12th Science) | Prananath Higher Secondary School, Khordha | 2024 · **56.5%** |
+
 | Matriculation (10th) | Buxi Jagabandhu Bidyadhar High School, Khordha | 2022 · **86.16%** |
 
 ---
