@@ -173,7 +173,6 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 |:---|:---|:---:|
 | B.Tech – Electrical Engineering | Parala Maharaja Engineering College, Berhampur | 2024 – Present |
 | Higher Secondary (12th Science) | Prananath Higher Secondary School, Khordha | 2024 · **56.5%** |
-
 | Matriculation (10th) | Buxi Jagabandhu Bidyadhar High School, Khordha | 2022 · **86.16%** |
 
 ---
