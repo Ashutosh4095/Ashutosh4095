@@ -207,7 +207,7 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-routashutosh999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:routashutosh999@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashutoshrout3561@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshrout3561@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%2081440%2053691-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918144053691)
 [![Location](https://img.shields.io/badge/Location-Khordha%2C%20Odisha-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Khordha,Odisha)
 
