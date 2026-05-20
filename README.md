@@ -191,7 +191,7 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 | 💡 Strength | 📝 Description |
 |:---:|:---|
 | 🎯 **Result-Oriented** | Consistently delivers measurable outcomes — 99% accuracy, 95% on-time delivery |
-| 👥 **Team Leadership** | Trained & managed 35+ field and warehouse staff with measurable error reduction |
+| 👥 **Team Leadership** | Trained & managed 35+ delivery riders and warehouse staff with measurable error reduction |
 | ⚡ **Problem Solving** | Resolves bottlenecks before they impact SLAs or delivery commitments |
 | 📊 **Data-Driven** | Uses MIS dashboards and Excel reports to inform daily operational decisions |
 | 🕐 **Time Management** | Handles 400–500+ daily shipments under pressure while meeting all TAT targets |
@@ -218,7 +218,7 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 <div align="center">
 
 ### 🔑 ATS Keywords
-`Branch In-charge` · `Express Logistics` · `Dispatch Operations` · `Order Management` · `O2C` · `Fleet Management`
+`Branch In-charge` · `Express Logistics` · `Dispatch Operations` · `Order Management` · `O2C` · `Rider Management`
 `Transporter Coordination` · `Warehouse Operations` · `Dock Management` · `Inventory Control` · `FIFO` · `FEFO`
 `GRN` · `E-Way Bill` · `Invoice Verification` · `SLA` · `TAT` · `MIS Reporting` · `ERP` · `SAP` · `WMS`
 `MS Excel` · `VLOOKUP` · `Pivot Tables` · `Data Entry` · `B2B Logistics` · `Last-Mile Delivery` · `Supply Chain`
