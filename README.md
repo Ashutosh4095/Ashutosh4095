@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Ashutosh%20Rout&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Operations%20%7C%20Logistics%20%7C%20Branch%20Management%20Professional&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=Branch+Operations+%7C+Express+Logistics;Dispatch+Planning+%7C+Fleet+Management;99%25%2B+Data+Accuracy+%7C+Zero+Compliance+Errors;SLA+%2F+TAT+Management+%7C+B2B+Operations;Open+to+Pan-India+Relocation+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=Branch+Operations+%7C+Express+Logistics;Dispatch+Planning+%7C+Rider+Management;99%25%2B+Data+Accuracy+%7C+Zero+Compliance+Errors;SLA+%2F+TAT+Management+%7C+B2B+Operations;Open+to+Pan-India+Relocation+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -59,7 +59,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ### 🔵 OD Team Leader – Operations Support
 **Zomato Hyperpure Pvt. Ltd.** · Bhubaneswar · `Dec 2025 – Present`
 
-- 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation & last-mile delivery
+- 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation
 - 📈 Drove on-time dispatch from **85% → 95%** through structured SLA monitoring and proactive issue resolution
 - 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
 - 👥 Supervised & trained **35+ warehouse and field staff**, reducing handling errors by **~20%**
@@ -75,7 +75,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 - 📦 Coordinated dispatch & pickup for **400–500+ daily express shipments** with on-time delivery focus
 - ⬇️ Reduced branch delays by **20%** via real-time tracking and proactive escalation handling
 - ✅ Maintained **98%+ data accuracy** across WMS/ERP systems and compliance documentation
-- 🤝 Onboarded and managed **35+ fleet operators & delivery partners** supporting branch revenue targets
+- 🤝 Onboarded and managed **35+ delivery partners** supporting branch revenue targets
 - 📝 Managed delivery challans, PODs & regulatory docs with **zero errors** throughout tenure
 - 🔄 Collaborated with internal teams to streamline dispatch schedules and improve shipment TAT
 
@@ -89,7 +89,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ![Branch Operations](https://img.shields.io/badge/Branch%20Operations-1F4E79?style=flat-square)
 ![Express Logistics](https://img.shields.io/badge/Express%20Logistics-2E74B5?style=flat-square)
 ![Dispatch Planning](https://img.shields.io/badge/Dispatch%20Planning-1F4E79?style=flat-square)
-![Fleet Management](https://img.shields.io/badge/Fleet%20Management-2E74B5?style=flat-square)
+![Rider Management](https://img.shields.io/badge/Rider%20Management-2E74B5?style=flat-square)
 ![B2B Order Fulfillment](https://img.shields.io/badge/B2B%20Order%20Fulfillment-1F4E79?style=flat-square)
 ![SLA / TAT Management](https://img.shields.io/badge/SLA%20%2F%20TAT%20Management-2E74B5?style=flat-square)
 ![Dock Management](https://img.shields.io/badge/Dock%20Management-1F4E79?style=flat-square)
@@ -142,14 +142,14 @@ Built and maintained **daily operational dashboards** using MS Excel (Pivot Tabl
 </details>
 
 <details>
-<summary><b>🚗 Fleet & Rider Onboarding Programme — Ekart Logistics (2024–25)</b></summary>
+<summary><b>🚗 Rider Onboarding Programme — Ekart Logistics (2024–25)</b></summary>
 <br/>
 
-Led end-to-end onboarding of **35+ fleet operators and delivery riders** including document verification, route briefing, and WMS/ERP system enrollment.
+Led end-to-end onboarding of **35+ delivery riders** including document verification, route briefing, and WMS/ERP system enrollment.
 
 **Result:** Reduced onboarding TAT by **25%**, enabling faster field deployment.
 
-**Skills used:** Fleet Management · Documentation · Vendor Relations · Training
+**Skills used:** Rider Management · Documentation · Vendor Relations · Training
 
 </details>
 
@@ -191,10 +191,10 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 | 💡 Strength | 📝 Description |
 |:---:|:---|
 | 🎯 **Result-Oriented** | Consistently delivers measurable outcomes — 99% accuracy, 95% on-time delivery |
-| 👥 **Team Leadership** | Trained & managed 30+ field and warehouse staff with measurable error reduction |
+| 👥 **Team Leadership** | Trained & managed 35+ field and warehouse staff with measurable error reduction |
 | ⚡ **Problem Solving** | Resolves bottlenecks before they impact SLAs or delivery commitments |
 | 📊 **Data-Driven** | Uses MIS dashboards and Excel reports to inform daily operational decisions |
-| 🕐 **Time Management** | Handles 40–50+ daily shipments under pressure while meeting all TAT targets |
+| 🕐 **Time Management** | Handles 400–500+ daily shipments under pressure while meeting all TAT targets |
 | 🔄 **Adaptability** | Quickly adapts to new systems, tools, and cross-functional team environments |
 | 📋 **Compliance Focus** | Zero compliance errors maintained across entire tenure in logistics operations |
 | 🚀 **Growth Mindset** | Proactively seeks process improvements; open to Pan-India branch relocation |
