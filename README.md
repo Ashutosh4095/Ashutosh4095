@@ -46,9 +46,9 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 | Data Accuracy Maintained | **99%+** ✅ |
 | Compliance Errors | **Zero** 🏅 |
 | TAT (Turnaround Time) Reduction | **–15%** ⚡ |
-| Staff Trained & Led | **30+ Members** 👥 |
+| Staff Trained & Led | **35+ Members** 👥 |
 | Handling Error Reduction | **–20%** 🎯 |
-| Daily Shipments Managed | **40–50+** 📦 |
+| Daily Shipments Managed | **400–500+** 📦 |
 
 </div>
 
@@ -62,7 +62,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 - 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation & last-mile delivery
 - 📈 Drove on-time dispatch from **85% → 95%** through structured SLA monitoring and proactive issue resolution
 - 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
-- 👥 Supervised & trained **30+ warehouse and field staff**, reducing handling errors by **~20%**
+- 👥 Supervised & trained **35+ warehouse and field staff**, reducing handling errors by **~20%**
 - 📊 Built and published **daily MIS dashboards** for senior management performance review
 - 🔧 Managed vendor & transporter relationships ensuring SLA compliance and cost-effective logistics
 - ⚠️ Handled escalations and resolved bottlenecks maintaining uninterrupted order fulfillment
@@ -72,10 +72,10 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ### 🔵 Fleet Acquisition Specialist / Relationship Executive
 **Ekart Logistics** · Bhubaneswar · `Dec 2024 – Nov 2025`
 
-- 📦 Coordinated dispatch & pickup for **40–50+ daily express shipments** with on-time delivery focus
+- 📦 Coordinated dispatch & pickup for **400–500+ daily express shipments** with on-time delivery focus
 - ⬇️ Reduced branch delays by **20%** via real-time tracking and proactive escalation handling
 - ✅ Maintained **98%+ data accuracy** across WMS/ERP systems and compliance documentation
-- 🤝 Onboarded and managed **15+ fleet operators & delivery partners** supporting branch revenue targets
+- 🤝 Onboarded and managed **35+ fleet operators & delivery partners** supporting branch revenue targets
 - 📝 Managed delivery challans, PODs & regulatory docs with **zero errors** throughout tenure
 - 🔄 Collaborated with internal teams to streamline dispatch schedules and improve shipment TAT
 
@@ -145,7 +145,7 @@ Built and maintained **daily operational dashboards** using MS Excel (Pivot Tabl
 <summary><b>🚗 Fleet & Rider Onboarding Programme — Ekart Logistics (2024–25)</b></summary>
 <br/>
 
-Led end-to-end onboarding of **15+ fleet operators and delivery riders** including document verification, route briefing, and WMS/ERP system enrollment.
+Led end-to-end onboarding of **35+ fleet operators and delivery riders** including document verification, route briefing, and WMS/ERP system enrollment.
 
 **Result:** Reduced onboarding TAT by **25%**, enabling faster field deployment.
 
