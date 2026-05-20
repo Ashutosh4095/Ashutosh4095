@@ -62,7 +62,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 - 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation
 - 📈 Drove on-time dispatch from **85% → 95%** through structured SLA monitoring and proactive issue resolution
 - 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
-- 👥 Supervised & trained **35+ warehouse and field staff**, reducing handling errors by **~20%**
+- 👥 Supervised & trained **35+ warehouse staff**, reducing handling errors by **~20%**
 - 📊 Built and published **daily MIS dashboards** for senior management performance review
 - 🔧 Managed vendor & transporter relationships ensuring SLA compliance and cost-effective logistics
 - ⚠️ Handled escalations and resolved bottlenecks maintaining uninterrupted order fulfillment
