@@ -4,15 +4,35 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Ashutosh%20Rout&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Operations%20%7C%20Logistics%20%7C%20Branch%20Management%20Professional&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=Branch+Operations+%7C+Express+Logistics;Dispatch+Planning+%7C+Rider+Management;99%25%2B+Data+Accuracy+%7C+Zero+Compliance+Errors;SLA+%2F+TAT+Management+%7C+B2B+Operations;Open+to+Pan-India+Relocation+%F0%9F%9A%80)](https://git.io/typing-svg)
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=Branch+Operations+%7C+Express+Logistics;Dispatch+Planning+%7C+Rider+Management;99%25%2B+Data+Accuracy+%7C+Zero+Compliance+Errors;SLA+%2F+TAT+Management+%7C+B2B+Operations;Open+to+Pan-India+Relocation+%F0%9F%9A%80)
+
+](https://git.io/typing-svg)
 
 <br/>
 
 <!-- BADGES -->
-![Experience](https://img.shields.io/badge/Experience-1.5%2B%20Years-1F4E79?style=for-the-badge&logo=briefcase&logoColor=white)
+
+
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-1F4E79?style=for-the-badge&logo=briefcase&logoColor=white)
+
+
+
+
 ![Location](https://img.shields.io/badge/Location-Khordha%2C%20Odisha-2E74B5?style=for-the-badge&logo=google-maps&logoColor=white)
+
+
+
+
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00b341?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+
+
+
 ![Relocation](https://img.shields.io/badge/Relocation-Pan--India%20Ready-orange?style=for-the-badge&logo=airplane&logoColor=white)
+
+
 
 </div>
 
