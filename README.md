@@ -44,6 +44,8 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 | On-Time Dispatch Improvement | **85% → 95%** ⬆️ |
 | Operational Delay Reduction | **–20%** ⬇️ |
 | Data Accuracy Maintained | **99%+** ✅ |
+| FTR Score — Scootsy Logistics | **99.69%** 🏅 |
+| Daily Order Completions | **980+** 📦 |
 | Compliance Errors | **Zero** 🏅 |
 | TAT (Turnaround Time) Reduction | **–15%** ⚡ |
 | Staff Trained & Led | **35+ Members** 👥 |
