@@ -135,7 +135,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ## 📁 Projects & Practical Exposure
 
 <details>
-<summary><b>🚀 Hub Operations Excellence — Scootsy Logistics (2026)</b></summary>
+<summary><b>🏪 Hub Operations Excellence — Scootsy Logistics (2026)</b></summary>
 <br/>
 
 Oversaw complete hub operations including multi-vehicle inwarding (Cold Chain, IM1, IM2, FnV), staff supervision, and order fulfillment quality control.
