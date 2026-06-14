@@ -56,8 +56,21 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 
 ## 💼 Work Experience
 
-### 🔵 OD Team Leader – Operations Support
-**Zomato Hyperpure Pvt. Ltd.** · Bhubaneswar · `Dec 2025 – Present`
+### 🟠 Assistant Store Manager
+**Scootsy Logistics Pvt. Ltd.** · Bhubaneswar · `June 2026 – Present`
+
+- 🏪 Managed daily **hub and last-mile operations,** ensuring smooth order fulfillment and dispatch activities across all operational shifts
+- 🎯 Maintained an excellent **FTR (First Time Right) score of 99.69%,** ensuring high accuracy in picking, packing, and dispatch operations
+- 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
+- 👥 Supervised & trained **35+ warehouse staff**, reducing handling errors by **~20%**
+- 📊 Built and published **daily MIS dashboards** for senior management performance review
+- 🔧 Managed vendor & transporter relationships ensuring SLA compliance and cost-effective logistics
+- ⚠️ Handled escalations and resolved bottlenecks maintaining uninterrupted order fulfillment
+
+---
+
+### 🔴 OD Team Leader – Operations Support
+**Zomato Hyperpure Pvt. Ltd.** · Bhubaneswar · `Dec 2025 – May 2026`
 
 - 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation
 - 📈 Drove on-time dispatch from **85% → 95%** through structured SLA monitoring and proactive issue resolution
