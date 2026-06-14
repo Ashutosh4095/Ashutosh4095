@@ -135,6 +135,18 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ## 📁 Projects & Practical Exposure
 
 <details>
+<summary><b>🚀 Hub Operations Excellence — Scootsy Logistics (2026)</b></summary>
+<br/>
+
+Oversaw complete hub operations including multi-vehicle inwarding (Cold Chain, IM1, IM2, FnV), staff supervision, and order fulfillment quality control.
+
+**Result:** Sustained **980+ daily order completions** with **99.69% FTR accuracy** and **zero damaged inventory** across all hub activities.
+
+**Skills used:** Hub Management · Last-Mile Operations · Cold Chain · Inventory Accuracy · Team Leadership · FTR Monitoring
+
+</details>
+
+<details>
 <summary><b>🚀 Dispatch Optimization Initiative — Zomato Hyperpure (2025–26)</b></summary>
 <br/>
 
