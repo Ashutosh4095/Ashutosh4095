@@ -9,7 +9,7 @@
 <br/>
 
 <!-- BADGES -->
-![Experience](https://img.shields.io/badge/Experience-1.5%2B%20Years-1F4E79?style=for-the-badge&logo=briefcase&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-1F4E79?style=for-the-badge&logo=briefcase&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Khordha%2C%20Odisha-2E74B5?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00b341?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Relocation](https://img.shields.io/badge/Relocation-Pan--India%20Ready-orange?style=for-the-badge&logo=airplane&logoColor=white)
