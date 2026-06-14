@@ -23,15 +23,15 @@
 ```yaml
 Name        : Ashutosh Rout
 Role        : Operations & Logistics Professional
-Experience  : ~1.5 Years (Express Logistics + Branch Operations)
+Experience  : 2+ Years (Express Logistics + Branch Operations + Store Management)
 Location    : Khordha, Odisha — 752056
-Education   : B.Tech (Electrical Engineering) — Pursuing | 12th Pass
+Education   : B.Tech (Mechanical Engineering) — Pursuing | 12th Pass
 Email       : ashutoshrout3561@gmail.com
 Phone       : +91 81440 53691
 Relocation  : ✅ Fully Open to Pan-India Relocation
 ```
 
-> 🎯 **Result-driven Operations professional** with hands-on experience in express logistics, dispatch coordination, and branch-level team management. Proven track record of driving **on-time delivery from 85% → 95%**, cutting operational delays by **20%**, and maintaining **99%+ data accuracy** with **zero compliance errors** across high-volume B2B environments.
+> 🎯 **Result-driven Operations professional** with hands-on experience in express logistics, dispatch coordination, hub operations, and branch-level team management. Proven track record of driving **on-time delivery from 85% → 95%**, cutting operational delays by **20%**, and maintaining **99%+ data accuracy and 99.69% FTR accuracy** and achieving **980+ daily order completions** across high-volume B2B and last-mile environments.
 
 ---
 
@@ -63,11 +63,13 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 
 - 🏪 Managed daily **hub and last-mile operations,** ensuring smooth order fulfillment and dispatch activities across all operational shifts
 - 🎯 Maintained an excellent **FTR (First Time Right) score of 99.69%,** ensuring high accuracy in picking, packing, and dispatch operations
-- 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
-- 👥 Supervised & trained **35+ warehouse staff**, reducing handling errors by **~20%**
-- 📊 Built and published **daily MIS dashboards** for senior management performance review
-- 🔧 Managed vendor & transporter relationships ensuring SLA compliance and cost-effective logistics
-- ⚠️ Handled escalations and resolved bottlenecks maintaining uninterrupted order fulfillment
+- 📊 Monitored and improved key operational KPIs including **O2C, C2P, P2B, O2B, and O2P** cycle times to optimize order processing speed
+- 👥 Led and supervised **hub pickers, loaders, and handlers**, to ensure seamless execution of daily operations and workforce productivity
+- 🚛 Coordinated timely unloading and inventory inwarding of **2 Cold Chain Vehicles, 1 IM1 Vehicle, 1 IM2 Vehicle, and 1 FnV Vehicle** on a daily basis
+- ✅ Ensured inventory accuracy by minimizing **Missing, Wrong, Quality, and QnP errors** through continuous process monitoring and team coaching
+- 🛡️ Managed **damage-free hub operations** with zero damaged inventory while maintaining stock integrity and quality standards
+- 📈 Monitored **workforce productivity, picker performance, and manpower allocation** to achieve operational targets and improve efficiency
+- 🔄 Collaborated with cross-functional teams including **supply chain, transportation, inventory, and delivery operations** to ensure smooth end-to-end fulfillment and customer satisfaction
 
 ---
 
