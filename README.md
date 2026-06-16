@@ -219,13 +219,13 @@ Participated in quarterly stock audits applying **FIFO/FEFO protocols**, reconci
 
 | 💡 Strength | 📝 Description |
 |:---:|:---|
-| 🎯 **Result-Oriented** | Consistently delivers measurable outcomes — 99% accuracy, 95% on-time delivery |
-| 👥 **Team Leadership** | Trained & managed 35+ delivery riders and warehouse staff with measurable error reduction |
+| 🎯 **Result-Oriented** | 99.69% FTR at Scootsy · 99%+ accuracy at Zomato · 980+ daily completions |
+| 👥 **Team Leadership** | Trained & managed 35+ delivery riders and warehouse + hub staff |
 | ⚡ **Problem Solving** | Resolves bottlenecks before they impact SLAs or delivery commitments |
 | 📊 **Data-Driven** | Uses MIS dashboards and Excel reports to inform daily operational decisions |
-| 🕐 **Time Management** | Handles 400–500+ daily shipments under pressure while meeting all TAT targets |
+| 🕐 **Time Management** | Handles 400–500+ daily shipments and 980+ orders under pressure while meeting all TAT targets |
 | 🔄 **Adaptability** | Quickly adapts to new systems, tools, and cross-functional team environments |
-| 📋 **Compliance Focus** | Zero compliance errors maintained across entire tenure in logistics operations |
+| 📋 **Compliance Focus** | Zero compliance errors and zero damaged inventory maintained across entire tenure |
 | 🚀 **Growth Mindset** | Proactively seeks process improvements; open to Pan-India branch relocation |
 
 </div>
