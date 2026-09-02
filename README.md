@@ -61,13 +61,16 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 ### 🟢 Associate Lead – Hyperlocal - MFC
 **Shadowfax Technologies Limited** · Khurda · `Jul 2026 – Present`
 
-- 🚚 Led **end-to-end branch dispatch operations** for B2B clients — dock scheduling, transporter allocation
-- 📈 Drove on-time dispatch from **85% → 95%** through structured SLA monitoring and proactive issue resolution
-- 📋 Maintained **99%+ accuracy** across ERP entries, E-Way Bills, GRNs, invoices & delivery challans
-- 👥 Supervised & trained **35+ warehouse staff**, reducing handling errors by **~20%**
-- 📊 Built and published **daily MIS dashboards** for senior management performance review
-- 🔧 Managed vendor & transporter relationships ensuring SLA compliance and cost-effective logistics
-- ⚠️ Handled escalations and resolved bottlenecks maintaining uninterrupted order fulfillment
+- 📦 **Manage day-to-day inventory operations**, ensuring stock accuracy and real-time inventory visibility across warehouse activities
+- 🔄 **Monitor inbound & outbound inventory movements** while maintaining proper stock reconciliation and control
+- 📋 Conduct **putaway audits, cycle counts & physical stock verification** to minimize discrepancies and improve accuracy
+- 🤝 **Coordinate with warehouse, operations & transportation teams** to ensure smooth and timely inventory flow
+- 📊 **Analyze inventory reports & MIS dashboards** to support operational decision-making and performance tracking
+- 💻 Ensure **timely and accurate inventory updates in SAP**, maintaining data integrity across warehouse processes
+- 🔎 **Investigate inventory variances** and implement corrective actions to improve overall inventory accuracy
+- 🛡️ Maintain **compliance with warehouse SOPs, safety standards & quality guidelines**
+- ⚙️ Support **process improvement initiatives** focused on inventory control, warehouse efficiency, and operational excellence
+- 👥 **Lead and coordinate inventory-related activities**, ensuring operational KPIs and service levels are consistently achieved
 
 ---
 
