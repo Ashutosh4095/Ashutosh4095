@@ -65,7 +65,7 @@ Relocation  : ✅ Fully Open to Pan-India Relocation
 - 🔄 **Monitor inbound & outbound inventory movements** while maintaining proper stock reconciliation and control
 - 📋 Conduct **putaway audits, cycle counts & physical stock verification** to minimize discrepancies and improve accuracy
 - 🤝 **Coordinate with warehouse, operations & transportation teams** to ensure smooth and timely inventory flow
-- 📊 **Analyze inventory reports & MIS dashboards** to support operational decision-making and performance tracking
+- 📊 **Analyze inventory reports** to support operational decision-making and performance tracking
 - 💻 Ensure **timely and accurate inventory updates in SAP**, maintaining data integrity across warehouse processes
 - 🔎 **Investigate inventory variances** and implement corrective actions to improve overall inventory accuracy
 - 🛡️ Maintain **compliance with warehouse SOPs, safety standards & quality guidelines**
